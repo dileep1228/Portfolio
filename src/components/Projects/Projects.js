@@ -39,7 +39,7 @@ function Projects() {
               description="Built a blogging app using React, TypeScript, Prisma ORM, PostgreSQL, JWT authentication, and
               CloudFlare deployment. Helps you to write, publish, view blogs."
               ghLink="https://github.com/dileep1228/medium-app"
-              demoLink="https://medium-app-ashy.vercel.app/signup"
+              //demoLink="https://medium-app-ashy.vercel.app/signup"
             />
           </Col>
 
